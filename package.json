@@ -1,0 +1,19 @@
+{
+  "name": "RepoBot",
+  "version": "1.0.0",
+  "description": "A bot that searchs Takes's repositories",
+  "main": "./src/index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index"
+  },
+  "repository": "https://github.com/JojiAbel/RepoBot.git",
+  "author": "João Vitor de Souza Gonçalves (Jojiabel)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
