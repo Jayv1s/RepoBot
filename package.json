@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "nodemon ./src/index"
   },
-  "repository": "https://github.com/JojiAbel/RepoBot.git",
-  "author": "João Vitor de Souza Gonçalves (Jojiabel)",
+  "repository": "https://github.com/Jayv1s/RepoBot.git",
+  "author": "João Vitor de Souza Gonçalves (Jayv1s)",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2",
